@@ -1,5 +1,5 @@
 import angular from 'angular';
-import './ng-hello-module';
+import './component-wrapper';
 
 angular.module('app', ['helloModule']);
 
